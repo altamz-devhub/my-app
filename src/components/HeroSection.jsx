@@ -91,7 +91,7 @@ export default () => {
                     <h2 className="text-3xl font-bold bg-gradient-to-r from-pink-500 to-blue-500 bg-clip-text text-transparent">
                         Hi! I'm Arjay
                         </h2>
-                        <h2 className="text-4xl text-white font-extrabold mx-auto md:text-5xl">
+                        <h2 className="text-4xl text-white font-extrabold font-mono mx-auto md:text-5xl">
                             Bringing Ideas to Life Through <span className="block pt-5">Front-End Development</span>
                         </h2>
                         <p className="max-w-2xl mx-auto text-gray-400">
